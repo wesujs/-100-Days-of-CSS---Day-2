@@ -4,7 +4,7 @@ Same Day as first day because I felt as if I could do more and I feel like I did
 
 There wasnt anything hard about this and I was done in about 20 minutes with this one. A big upgrade from the last which had me stuck on it for about an hour 😅.
 
-![Day 2 Design for 100 Days of CSS Challenge](./design/100days2.png)
+![Day 2 Design for 100 Days of CSS Challenge](./designs/100days2.png)
 
 The [100 Days of CSS Challenge](https://100dayscss.com/days/2/) was a piece of cake!
 
