@@ -1,0 +1,32 @@
+.frame {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+    border-radius: 2%;
+    height: 400px;
+    width: 400px;
+    background-color: #3FAF82;
+    box-shadow: 1px 2px 10px 0px;
+}
+
+.holder {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.symbol1, .symbol2, .symbol3 {
+    height: 8px;
+    width: 70px;
+    background: white;
+    border-radius: 25px;
+    display: block;
+    box-shadow: 1px 2px 10px 0px;
+}
+
+.symbol2, .symbol3 {
+    margin-top: 10px;
+}
